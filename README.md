@@ -1,6 +1,7 @@
 # 🖼️ OpenCV Image Processing Project
 
-![OpenCV Logo](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV Logo" width="200"/>
+
 
 > A modern, modular image processing toolkit built using **Python** and **OpenCV**.
 
